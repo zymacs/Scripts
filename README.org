@@ -1,0 +1,12 @@
+* Scripts
+
+** Contents
+- Python utility scripts
+  - Or links to utility projects
+- Bash utility scripts
+  - Or links to the corresponding utility projects
+
+** Bash scripts
+*** i3 scripts (still ideas)
+- Show volume 
+- Increase volume
